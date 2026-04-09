@@ -13,8 +13,6 @@
 <!-- Stats -->
 <div align="center">
   <img height="165" width="410" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FeriMauliandi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=FeriMauliandi&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriMauliandi&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />  -->
   <img height="165"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FeriMauliandi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeriMauliandi&theme=aura&hide_border=true" width="50%" />
 </div>
