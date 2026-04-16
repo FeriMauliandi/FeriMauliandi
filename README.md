@@ -34,11 +34,10 @@
 ## 🌐 Connect with Me 🍬
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_feryms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferimauliandisaputra)
 
-
-
+## Contributions
 <!-- Snake Animation -->
 <div align="center">
-    
+  
   ![snake gif](https://github.com/FeriMauliandi/FeriMauliandi/blob/output/github-snake-dark.svg)
 </div>
 
