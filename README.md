@@ -6,8 +6,6 @@
 
 - 🌱 currently diving deep into **Computer Vision, LLMs, and RAG Pipeline**
 
-- 👨‍💻 Explore my projects at [https://github.com/FeryMauliandi](https://github.com/FeryMauliandi)
-
 - 📫 Reach out to me: **feri.19022004@gmail.com**
 
 <!-- Stats -->
